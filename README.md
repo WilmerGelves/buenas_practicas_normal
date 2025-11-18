@@ -13,6 +13,7 @@ Gran parte de los cambios que se deben hacer se enfocan en el manejo de variable
 
 ### 2. Prefiera `Number.parseInt` a `parseInt`
 La idea es cambiar el uso de métodos. Se debe hacer el cambio de `parseInt` por `Number.parseInt()` haciendo el llamado a la clase `Number`.
+
 <img width="589" height="239" alt="image" src="https://github.com/user-attachments/assets/1a052ada-f4f9-4d78-bc90-a2708c0d9e8a" />
 
 ### 3. Prefiera `Number.isNaN` a `isNaN`
